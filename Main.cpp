@@ -12,7 +12,7 @@ int main()
 
     print_vector(">", vi);
 
-    std::vector<int> fibonacci_vi = { };
+    std::vector<int> fibonacci_vi;
 
     fibonacci(3, 5, fibonacci_vi, 10);
 
